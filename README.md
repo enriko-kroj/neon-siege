@@ -1,4 +1,5 @@
 # Neon Siege
+🎮 **[Play it live →](https://enriko-kroj.github.io/neon-siege)**
 
 > A hand-crafted, single-file arcade shooter — zero dependencies, zero frameworks, pure code.
 
